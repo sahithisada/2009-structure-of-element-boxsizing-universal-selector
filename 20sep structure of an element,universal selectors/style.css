@@ -1,0 +1,76 @@
+#Mc{
+    width: 150px;
+    display: inline-block;
+    background-color: rgb(244, 229, 14);
+    padding: 50px;
+    border: 20px solid rgb(243, 6, 6);
+    margin: 20px;
+    border-radius: 30px;
+}
+#kfc{
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(249, 31, 6);
+    padding: 50px;
+    border: 20px dotted rgb(0, 0, 0);
+    margin: 20px;
+    border-radius: 30px;
+}
+#Starbucks{
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    border: 20px dashed rgb(111, 239, 82);
+    margin: 20px;
+    border-radius: 30px;
+}
+#cb{
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(234, 218, 177);
+    padding: 50px;
+    border: 20px double rgb(194, 165, 67);
+    margin: 20px;
+    border-radius: 30px;
+}
+#tacobell{
+    width: 150px;
+    display: inline-block;
+    background-color: rgb(121, 30, 249);
+    padding: 50px;
+    border: 20px groove rgb(245, 241, 241);
+    margin: 20px;
+    border-radius: 30px;
+}
+#pizzahut{
+    width: 150px;
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+    padding: 50px;
+    border: 20px ridge rgb(255, 255, 255);
+    margin: 20px;
+    border-radius: 30px;
+}
+#domios{
+    width: 150px;
+    display: inline-block;
+    background-color: rgb(72, 137, 241);
+    padding: 50px;
+    border: 20px inset rgb(243, 6, 6);
+    margin: 20px;
+    border-radius: 30px;
+}
+#burgerking{
+    width: 150px;
+    display: inline-block;
+    background-color: rgb(244, 190, 14);
+    padding: 50px;
+    border: 20px outset rgb(243, 6, 6);
+    margin: 20px;
+    border-radius: 30px;
+}
+#mainHeading{
+    background-color: rgb(216, 192, 192);
+    text-align: center;
+}
